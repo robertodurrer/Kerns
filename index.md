@@ -1,6 +1,6 @@
-# 📈 Cotações B3 - Ebook Kerns
+# Cotações B3 - Ebook
 
-_Atualizado em: 14/03/2026, 20:20:05_
+_Atualizado em: 14/03/2026, 20:26:59_
 
 | Ação | Valor |
 | --- | --- |
